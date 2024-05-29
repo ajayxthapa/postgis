@@ -113,7 +113,8 @@ The osm2po package can be downloaded from the link provided above. This package 
 
 * Execute
 
-* Simple Query and Output
+* Simple Query and Output  
+
 ![simpleoutput](/images/simpleoutput.png "simpleoutput")
 
 * Simple Query and Output on Geometry Viewer
